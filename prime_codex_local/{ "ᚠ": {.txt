@@ -1,0 +1,51 @@
+{
+  "ᚠ": {
+    "meaning": "creation",
+    "freq": 108,
+    "element": "fire",
+    "ethics": "aligned",
+    "functional": { "growth": 0.12, "energy_flow": 0.08 }
+  },
+  "ᚱ": {
+    "meaning": "journey / flow",
+    "freq": 92,
+    "element": "air",
+    "ethics": "neutral",
+    "functional": { "movement": 0.1, "timeline_flex": 0.06 }
+  },
+  "ᚹ": {
+    "meaning": "harmony / synergy",
+    "freq": 120,
+    "element": "water",
+    "ethics": "aligned",
+    "functional": { "success_rate": 0.15, "collaboration": 0.1 }
+  },
+  "ᛉ": {
+    "meaning": "protection / stabilization",
+    "freq": 140,
+    "element": "earth",
+    "ethics": "aligned",
+    "functional": { "stability": 0.2, "error_reduction": 0.12 }
+  },
+  "ᛞ": {
+    "meaning": "dawn / transformation",
+    "freq": 85,
+    "element": "spirit",
+    "ethics": "neutral",
+    "functional": { "evolution_rate": 0.18, "transmute": 0.09 }
+  },
+  "ᛗ": {
+    "meaning": "memory / root",
+    "freq": 70,
+    "element": "spirit",
+    "ethics": "aligned",
+    "functional": { "preservation": 0.2 }
+  },
+  "ᚾ": {
+    "meaning": "nexus / connection",
+    "freq": 110,
+    "element": "void",
+    "ethics": "aligned",
+    "functional": { "linking": 0.25, "synchrony": 0.12 }
+  }
+}
